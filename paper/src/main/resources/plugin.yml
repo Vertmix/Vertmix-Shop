@@ -1,0 +1,6 @@
+main: com.vertmix.shop.plugin.ShopPlugin
+version: 1.0
+name: Shops
+depend: [helper]
+softdepend: [Vault]
+api-version: 1.13
